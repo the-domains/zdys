@@ -1,0 +1,28 @@
+name: zdys
+favicon: null
+layout_spectrum: 0.19679016643203795
+typography_spectrum: 0.8748053042218089
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.30515240295790136
+  lightness: 0.16331787942908704
+  saturation: 0.33678068220615387
+  rhythmicContrast: 0.9667859799228609
+purpose: []
